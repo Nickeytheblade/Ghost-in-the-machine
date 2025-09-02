@@ -1,0 +1,11 @@
+REM --- Open Notes and type a message (macOS) ---
+DEFAULT_DELAY 200
+DELAY 1000
+GUI SPACE
+DELAY 400
+STRING Notes
+ENTER
+DELAY 1200
+GUI n
+DELAY 300
+STRING Gonna be hard to find a ghost
