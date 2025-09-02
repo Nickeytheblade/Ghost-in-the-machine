@@ -1,5 +1,5 @@
 ## Ghost-in-the-machine
-Bad Ducky USB script 
+Ducky Script 
 
 # "Gonna be hard to find a ghost"
 
