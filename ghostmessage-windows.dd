@@ -1,0 +1,9 @@
+REM --- Open Notepad and type a message (Windows) ---
+DEFAULT_DELAY 200
+DELAY 1000
+GUI r
+DELAY 300
+STRING notepad
+ENTER
+DELAY 800
+STRING Gonna be hard to find a ghost
