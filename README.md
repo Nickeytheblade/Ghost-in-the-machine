@@ -1,4 +1,4 @@
-## Ghost-in-the-machine
+## Ghost in the machine
 Ducky Script 
 
 # "Gonna be hard to find a ghost"
